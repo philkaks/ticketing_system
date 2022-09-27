@@ -59,7 +59,7 @@ class TicketData extends StatelessWidget {
         ),
         const Padding(
           padding: EdgeInsets.only(top: 20.0),
-          child: Text('Movie Ticket',
+          child: Text('Concert Ticket',
               style: TextStyle(
                   color: Colors.black,
                   fontSize: 20.0,

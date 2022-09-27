@@ -1,7 +1,6 @@
 // ignore_for_file: avoid_print
 
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutterwave/flutterwave.dart';
 import 'package:ticketing_system/const.dart';
 import 'components/red_rounded_action_button.dart';

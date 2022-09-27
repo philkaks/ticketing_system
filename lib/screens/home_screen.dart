@@ -54,22 +54,9 @@ class _MyHomePageState extends State<MyHomePage> {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                //Image.asset(movies[widget.index].logo),
+             
                 const Padding(padding: EdgeInsets.symmetric(vertical: 10.0)),
-                // Row(
-                //   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                //   children: <Widget>[
-                //     DarkBorderlessButton(
-                //       text: 'Popular with Friends',
-                //       callback: () {},
-                //     ),
-                //     DarkBorderlessButton(text: age, callback: () {}),
-                //     PrimaryRoundedButton(
-                //       text: rating,
-                //       callback: () {},
-                //     ),
-                //   ],
-                // ),
+                
                 const SizedBox(
                   height: 200.0,
                 ),

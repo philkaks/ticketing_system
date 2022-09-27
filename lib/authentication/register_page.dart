@@ -1,7 +1,5 @@
 import 'dart:ui';
 
-//import 'constants.dart';
-
 import 'package:ticketing_system/const.dart';
 
 import 'authentication_client.dart';
