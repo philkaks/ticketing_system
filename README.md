@@ -1,4 +1,4 @@
-# ticketing_system
+# Concert Ticket App
 
 ## Getting Started
 To get started with the project, you need to follow these steps:
@@ -22,6 +22,9 @@ To get started with the project, you need to follow these steps:
 - flutter_launcher_icons
 
 # Screenshots
+
+![Mock ups potrait mode](https://user-images.githubusercontent.com/88200797/233597214-13dbe3a5-0e94-444d-b022-6df0775ebba8.png)
+
 
 ![WhatsApp Image 2023-04-21 at 11 09 46 AM](https://user-images.githubusercontent.com/88200797/233584902-aacd448e-61e6-4a36-8bec-64f0dfcb1f75.jpeg)
 ![WhatsApp Image 2023-04-21 at 11 09 45 AM](https://user-images.githubusercontent.com/88200797/233584927-29f158db-dbe6-4576-8382-84ca546b8d33.jpeg)
