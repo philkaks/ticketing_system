@@ -31,7 +31,6 @@ To get started with the project, you need to follow these steps:
 ![WhatsApp Image 2023-04-11 at 6 31 00 PM (2)](https://user-images.githubusercontent.com/88200797/233578966-16061b05-118f-4940-a5ce-af6f93fd58b1.jpeg)
 
 ![WhatsApp Image 2023-04-11 at 6 31 00 PM](https://user-images.githubusercontent.com/88200797/233578996-49465033-6e51-457a-b163-51caf3d3a5d8.jpeg)
-![WhatsApp Image 2023-04-11 at 6 31 00 PM (1)](https://user-images.githubusercontent.com/88200797/233579027-c1fc0840-997e-43a3-a388-7dd1e6fae207.jpeg)
 
 ![WhatsApp Image 2023-04-11 at 6 30 59 PM (3)](https://user-images.githubusercontent.com/88200797/233579149-b53dd585-3bfa-4654-b402-adc5f290c63d.jpeg)
 ![WhatsApp Image 2023-04-11 at 6 31 00 PM (1)](https://user-images.githubusercontent.com/88200797/233579159-a2f6d164-bd27-42df-9aff-3200637dc1c0.jpeg)
